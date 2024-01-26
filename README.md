@@ -39,3 +39,12 @@
   - Criação dos botões <mark>Inscreva-se</mark> e <mark>Login</mark>;
   - Criação do rodapé
 
+- **4ª Etapa**:
+
+  - Criação dos cards de playlist;
+  - Estilizanção dos cards;
+  - Implementação de JavaScript na page;
+  - Criação de uma Pseudo-API;
+  - Criação do Jason Server;
+
+  
